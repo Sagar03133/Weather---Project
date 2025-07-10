@@ -12,7 +12,7 @@ Identify how weather affects delivery performance and help businesses make data-
 
 ### What I Did
 - Performed data cleaning, merging weather and logistics datasets for integrated analysis
-- Conducted exploratory data analysis (EDA) to detect correlations between weather events (e.g., rain, wind) and delayed deliveries
+- Conducted Exploratory Data Analysis (EDA) to detect correlations between weather events (e.g., rain, wind) and delayed deliveries
 - Visualized key metrics like average delivery time by weather condition, location-wise delay patterns, and seasonal trends
 - Flagged high-risk routes/locations frequently affected by weather
 - Suggested mitigation strategies (e.g., alternate routes, delay buffers, proactive rescheduling)
